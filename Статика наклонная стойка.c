@@ -7,7 +7,7 @@ int main() {
 	float C44, C45, C455, C46, C47, C48, C50, C55, C56=0.0025, C60, C68, C69, C70=0.8, C80;
 	float D50, D54, D59, D62, D71, D74, D76=0.01302, D77, D78, h_build;
 	char terrain_type_ch, I='I', V='V';
-	float timer;
+	float timer, x;
 	timer = time( 0 );
 	if (timer/3600/8760 >=50)
 	printf("\nлицензия до 2020года, обратитесь по адресу mitinva1@gmail.com\n");
